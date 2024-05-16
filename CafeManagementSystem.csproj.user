@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ApplyLoyaltyprogram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CampusBites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CashierDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerPortal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomerSatisfaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GenerateReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiveFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GreaterThanAvgQuantity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IngredientsMenuItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoyaltyProgram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PlaceOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RepeatingCustomers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesPerCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffViews.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentOffers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TopSellingItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderfromInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageFinanaces.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IMDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Updateinventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Checkinventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuItemsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteMenuitems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CMDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
