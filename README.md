@@ -74,7 +74,7 @@ This Café Management System is designed and implemented using C# in Visual Stud
 - Update database connection strings and any other configurations as needed.
 - Start the application and login with appropriate user credentials.
 
-Contributors
+**Contributors**
 
 Muhammad Usman Nazeer
 
